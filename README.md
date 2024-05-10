@@ -10,7 +10,7 @@
 </div>
 
 
-![emiliodl GitHub stats](https://github-readme-stats.vercel.app/api?username=emiliodl&show_icons=true&theme=dark)
+[![emiliodl's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiliodl)](https://github.com/emiliodl/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliodl&layout=compact)
 
