@@ -51,9 +51,3 @@
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=emiliodl&show_icons=true" alt="Emiliano's GitHub stats"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliodl&layout=compact" alt="Top languages"/>
-</p>
