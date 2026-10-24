@@ -26,8 +26,6 @@ I also work in industry as an **Integrated Operations Analyst at Méliuz**, wher
 AI-powered automation: LLM agents and n8n workflows for fraud detection, contract
 compliance review and IT support, on Google Cloud.
 
-I care about results that hold up: pre-registered evaluations, statistical tests, honest
-baselines and reproducible code.
 
 ## Research
 
@@ -70,8 +68,4 @@ Manuscripts in preparation: CRAFT and FastMV-NILM (see the repositories above).
 | Automation & agents | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square) |
 | Tooling | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
 
-## Currently
 
-- Writing up CRAFT and FastMV-NILM for publication.
-- Fine-tuning Distil-Whisper for Brazilian Portuguese speech recognition (WER reduction with VAD, LM rescoring and text normalization).
-- Building MCP-based integrations that give LLM agents safe, structured access to internal APIs.
