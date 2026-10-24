@@ -43,13 +43,6 @@ compliance review and IT support, on Google Cloud.
 | [trab-final-visao](https://github.com/emiliodl/trab-final-visao) | Parking-space occupancy detection from video with OpenCV. |
 | [trab01-seg](https://github.com/emiliodl/trab01-seg) | OpenSSL-compatible key management and file encryption tool. |
 
-## Publications
-
-- K. P. de Lima, **E. D. S. C. Lima**, C. A. L. de Campos, V. A. C. C. Almeida, R. A. L. Rabêlo.
-  *Clinic Match: Facilitating Clinical Trials with Text Mining.* ERCEMAPI, SBC.
-  [[paper]](https://sol.sbc.org.br/index.php/ercemapi/article/view/30193)
-
-Manuscripts in preparation: CRAFT and FastMV-NILM (see the repositories above).
 
 ## Education
 
