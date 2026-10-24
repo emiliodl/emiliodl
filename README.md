@@ -7,6 +7,7 @@ Machine learning for energy time series · Non-Intrusive Load Monitoring · Appl
 
 <p align="center">
 <a href="https://www.linkedin.com/in/emilianodias/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="http://lattes.cnpq.br/1428098142257085"><img src="https://img.shields.io/badge/Lattes-CV-2E7D32?style=flat-square" alt="Lattes CV"></a>
 <a href="mailto:emiliods79@gmail.com"><img src="https://img.shields.io/badge/Email-emiliods79%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/Location-Brazil-009C3B?style=flat-square" alt="Location: Brazil">
 </p>
