@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emiliano Dias</h1>
-<h3 align="center">M.Sc. student in Electrical Engineering (Signal Processing & Instrumentation) @ USP · Fine-tuning ASR models for Brazilian Portuguese</h3>
+<h3 align="center">M.Sc. student in Electrical Engineering (Signal Processing & Instrumentation) @ USP · Non-Intrusive Load Monitoring & time-series ML</h3>
 
 <p align="center">
-🎓 M.Sc. student at the São Carlos School of Engineering (EESC), University of São Paulo — optimizing <b>Distil-Whisper</b> to reduce WER for Brazilian Portuguese speech recognition<br>
+🎓 M.Sc. student at the São Carlos School of Engineering (EESC), University of São Paulo — research on <b>Non-Intrusive Load Monitoring (NILM)</b>: recognizing household appliances from smart-meter data<br>
 💼 Integrated Operations Analyst @ <b>Méliuz</b> — building AI-powered automation, fraud detection and agentic systems with n8n, GCP and Gemini<br>
 🔬 Past research (CRIA Project, UFC): NLP & text mining applied to clinical trials — <i>Clinic Match</i><br>
 🌱 Currently exploring the Hugging Face ecosystem, LLM tool-calling / MCP-based agents, and Computer Vision
@@ -18,10 +18,17 @@
 
 ### 🧠 What I work on
 
-- **Speech & NLP** — fine-tuning Distil-Whisper for Brazilian Portuguese as my Master's research, working hands-on with the Hugging Face ecosystem (`transformers`, tokenizers, fine-tuning pipelines) and WER-reduction techniques (VAD, LM rescoring, text normalization).
+- **Speech & NLP** — fine-tuning Distil-Whisper for Brazilian Portuguese, working hands-on with the Hugging Face ecosystem (`transformers`, tokenizers, fine-tuning pipelines) and WER-reduction techniques (VAD, LM rescoring, text normalization).
 - **AI-powered automation** — designing n8n workflows and LLM agents for fraud detection, contract compliance review, and IT support, using Gemini embeddings, BigQuery, and Google Workspace APIs.
 - **Agentic systems** — building MCP-based backoffice integrations that give LLM agents safe, structured access to internal APIs to execute real actions.
-- **Signal processing & time-series ML** — Transformer and CNN architectures in PyTorch for tasks like Non-Intrusive Load Monitoring (NILM).
+- **Signal processing & time-series ML** — my Master's research: Non-Intrusive Load Monitoring (NILM) from low-rate smart-meter data, with 1D CNN ensembles, data augmentation by aggregate recomposition, and fast image-based feature extraction, evaluated with pre-registered, statistically tested protocols.
+
+### 📌 Featured research
+
+| Project | What it is |
+|---|---|
+| [**CRAFT**](https://github.com/emiliodl/CRAFT) | Appliance on/off classification from 5- and 15-min smart-meter data: aggregate recomposition, an ensemble of 1D ResNets and a sign-constrained edge detector, compared with a published low-rate NILM benchmark. |
+| [**FastMV-NILM**](https://github.com/emiliodl/FastMV-NILM) | Fast multi-view feature extraction for image-based NILM: reduced input resolution and fused time-series image encodings (TBG, GASF, GADF, RP, MTF) with a frozen MobileNetV3, on UK-DALE. |
 
 ### 🎓 Academic background
 
